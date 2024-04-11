@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SR80xk+M3Lum9iTCoo0VkGItj/a/R1q8zbn2qcdTX0rYLCeQFtZjCIPANJgkos743TRHq/Wb4t+Iwo7InZkODA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\Final_Version_OS_Tamrin2_Nika Shahbeyk\\Tamrin2\\Tamrin2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
